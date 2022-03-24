@@ -1,1 +1,1 @@
-# My personal website (WIP)
+# Contains .bsdesign file
