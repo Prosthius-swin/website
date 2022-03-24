@@ -1,0 +1,56 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.link {
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.padding-50px {
+  padding: 50px 50px 50px 50px;
+}
+
+.masthead-heading.padding-50px {
+  padding: 50px 50px 50px;
+}
+
+* {
+  color: white;
+}
+
+.white {
+  color: white;
+}
+
+.nav-link-heading {
+  display: block;
+  color: #ee0979;
+  text-decoration: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.heading:hover {
+  color: #ee0979;
+}
+
+.hover-invert:hover {
+  invert: invert(1) grayscale(100%) brightness(200%);
+}
+
+.header-link:hover {
+  color: #ee0979;
+  text-decoration-color: #ee0979;
+}
+
+.header-link {
+  text-decoration-color: #ffffff;
+}
+
+h2 {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
